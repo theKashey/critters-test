@@ -9,7 +9,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "latest"
+    "core-js": "latest",
+    "used-styles": "^2.2.0"
   },
   "devDependencies": {
     "@nuxt/types": "latest",
