@@ -1,4 +1,5 @@
 > This is a reproduction to pair with https://github.com/GoogleChromeLabs/critters/issues/78
+> This adds https://github.com/theKashey/used-styles to the comparison
 
 ## Get started
 >Note: use `127.0.0.1:3000` if using OSX
